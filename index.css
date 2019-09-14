@@ -1,0 +1,147 @@
+#brand{
+  text-align: center;
+  font-family: 'Barriecito', cursive;
+  background: #91c994;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  font-size: 3em;
+  height: 70px;
+}
+.med{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 650px;
+  padding: 50px;
+  color: #17400d;
+
+
+}
+.imgs{
+  height: 200px;
+  width: 150px;
+border: 1px solid black;
+border-radius: 50%;
+}
+h1{
+  font-size: 5em;
+  font-family: 'Sacramento', cursive;
+  padding: auto;
+  padding-top: 15px;
+
+}
+h2{
+  color: black;
+  font-family: 'Economica', sans-serif;
+  font-size: 2em;
+}
+.btn{
+  border: 2px solid white;
+  background: #80FF72;
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  padding: auto;
+  font-size: 25px;
+  color: white;
+  font-family: 'Chilanka', cursive;
+}
+.imgs2{
+  height: 250px;
+  width: 250px;
+  border: 2px solid black;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+.tab1{
+  margin: auto;
+  margin-top: 100px
+}
+span{
+  font-size: 1.5em;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #17400d;
+}
+nav h3{
+font-size: 2em
+
+}
+
+h3{
+  font-family: 'Economica', sans-serif;
+}
+.imgs3{
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 150px;
+}
+.msg{
+  text-align: center;
+  padding-top: 25px;
+  font-size: 2.5em;
+  padding-top: 100px;
+  background: #e1f7e2;
+  margin: auto;
+  padding: 25px;
+}
+#help{
+  color: #17400d;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h4{
+  font-family: 'Josefin Sans', cursive;
+  color: #44b828;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.btn-2{
+  border: 0px solid black;
+  background-color: #2f750c;
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  padding: auto;
+  font-size: 25px;
+  color: white;
+  font-family: 'Chilanka', cursive;
+}
+.main{
+  background-color: #e8fae9;
+}
+.low{
+  text-align: center;
+  line-height: 0px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em;
+  color: #17400d;
+}
+td{
+  text-align: center;
+}
+.high{
+  text-align: center;
+  line-height: 0px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em;
+  color: #17400d;
+}
+.lastt{
+  height: 400px;
+  background: #e1f7e2;
+  margin-left: 0;
+  margin-right: 0;
+  display: block;
+}
+#iml{
+  text-align: right;
+}
+.imgs5{
+  text-align: center;
+}
